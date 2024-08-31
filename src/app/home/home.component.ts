@@ -8,7 +8,7 @@ import { HousingLocation } from '../housinglocation';
   standalone: true,
   imports: [
     CommonModule,
-    HousingLocationComponent
+    HousingLocationComponent,
   ],
   template: `
   <section>
